@@ -1,8 +1,13 @@
 # Mask R-CNN for Object Detection and Segmentation
 
-This fork supports the paper *Automatic flower detection and phenology monitoring using time-lapse cameras and deep learning*. To read more and see how to use it, go to <a href="https://github.com/TECOLOGYxyz/AutomaticFlowerPhenology">TECOLOGYxyz/AutomaticFLowerPhenology</a>.
+#
+---
+
+This fork supports the paper *Automatic flower detection and phenology monitoring using time-lapse cameras and deep learning*. To read more and see how to use it, go to <a href="https://github.com/TECOLOGYxyz/AutomaticFlowerPhenology">TECOLOGYxyz/AutomaticFlowerPhenology</a>.
 
 ---
+#
+
 
 # Below is the original Matterport documentation and tutorials.
 
